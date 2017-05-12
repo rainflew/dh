@@ -1,0 +1,8 @@
+[0508/171514.628:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[0508/171514.635:ERROR:exception_snapshot_win.cc(87)] thread ID 5468 not found in process
+[0508/171514.635:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0508/171514.635:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
+[0511/171608.004:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[0511/171608.005:ERROR:exception_snapshot_win.cc(87)] thread ID 3588 not found in process
+[0511/171608.005:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0511/171608.005:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
